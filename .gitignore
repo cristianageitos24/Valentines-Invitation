@@ -1,0 +1,4 @@
+node_modules/*
+*.json
+!vercel.json
+index.js
